@@ -1,0 +1,1 @@
+Developers are often tasked with creating sleek user interfaces making it easy for non-devs to view and interact with information store in databases. In this application I built a solution for managing company’s employees using node, inquirer, and MySQL.
